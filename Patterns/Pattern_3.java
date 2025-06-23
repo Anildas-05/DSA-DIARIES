@@ -15,7 +15,7 @@ package Patterns;
 
 // Solution:-
 
-public class Pattern_3 {
+public class Pattern_03 {
 
         public static void nTriangle(int n) {
             // Write your code here

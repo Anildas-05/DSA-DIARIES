@@ -12,7 +12,7 @@ package Patterns;
 //   *
 
 // Solution:-
-public class Pattern_08 {
+public class Pattern_8 {
         public static void nStarTriangle(int n) {
             // Write your code here
             for (int i = 0; i < n; i++) {

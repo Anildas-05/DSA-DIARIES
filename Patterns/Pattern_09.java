@@ -14,7 +14,7 @@ package Patterns;
 //   *
 
   // Solution:-
-public class Pattern_9 {
+public class Pattern_09 {
     
         public static void nStarDiamond(int n) {
             // Write your code here
