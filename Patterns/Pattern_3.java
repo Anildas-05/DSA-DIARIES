@@ -1,5 +1,6 @@
 package Patterns;
-// Problem statement Sam is making a Triangular painting for a maths project.
+// Problem statement 
+// Sam is making a Triangular painting for a maths project.
 
 // An N-dimensional Triangle is represented by the lower triangle of the pattern filled with integers starting from 1.
 

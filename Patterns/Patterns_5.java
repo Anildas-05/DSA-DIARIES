@@ -1,6 +1,7 @@
 package Patterns;
 
-// Problem statement Sam is planting trees on the upper half region(separated by the left diagonal)of the square shared field.
+// Problem statement 
+// Sam is planting trees on the upper half region(separated by the left diagonal)of the square shared field.
 
 // For every value of‘N’,print the field if the trees are represented by‘*’.
 

@@ -1,5 +1,6 @@
 package Patterns;
-// Problem statement Aryan and his friends are very fond of the pattern.For a given integer‘N’,they want to make the Reverse N-Number Triangle.
+// Problem statement 
+// Aryan and his friends are very fond of the pattern.For a given integer‘N’,they want to make the Reverse N-Number Triangle.
 
 // Example:Input:‘N’=3
 
