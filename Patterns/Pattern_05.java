@@ -13,7 +13,7 @@ package Patterns;
 // *
 
 // Solution:-
-public class Patterns_5 {
+public class Pattern_05 {
     
         public static void seeding(int n) {
             // Write your code here

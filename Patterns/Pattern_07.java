@@ -10,7 +10,7 @@ package Patterns;
 //   *
 //  ***
 // *****
-public class Pattern_7 {
+public class Pattern_07 {
    
         public static void nStarTriangle(int n) {
             // Write your code here

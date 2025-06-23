@@ -15,7 +15,7 @@ package Patterns;
 
 // Solution :-
 
-public class Pattern_1 {
+public class Pattern_01 {
     public static void nForest(int n) {
         // Write your code here
 
